@@ -35,7 +35,7 @@ _For more examples and usage, please contact [Handoko Adji Pangestu](https://www
 In the `Sales model` section, in the method store replace the header with your baseUrl.
 
 ```sh
-header('Location: http://localhost/project-learn/bpptik/project-learn-jwd-150221-sale/index.php?pref=sales&page=index');
+header('Location: http://localhost/project-learn/bpptik/project-learn-jwd-150221-sale/index.php?pref=sale&page=index');
 ```
 
 to :

@@ -43,5 +43,23 @@
         "price": 10000,
         "condition": "New",
         "created_at": "28 Feb 2021"
+    },
+    {
+        "_id": "6049fee807a06",
+        "invoice": "SPT.NK.11032021.10K\/NEW",
+        "item": "Nike",
+        "category": "Sepatu",
+        "price": 10000,
+        "condition": "New",
+        "created_at": "11 Mar 2021"
+    },
+    {
+        "_id": "6049ff5f456c1",
+        "invoice": "JM.GS.11032021.100K\/SCND",
+        "item": "Guess",
+        "category": "Jam",
+        "price": 100000,
+        "condition": "Second",
+        "created_at": "11 Mar 2021"
     }
 ]

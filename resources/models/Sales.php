@@ -100,7 +100,7 @@ class Sales extends \stdClass
     fclose($data_txt);
 
     $_SESSION['success'] = "Transaction successfully added";
-    header('Location: http://localhost/project-learn/bpptik/project-learn-jwd-150221-sale/index.php?pref=sales&page=index');
+    header('Location: http://localhost/project-learn/bpptik/project-learn-jwd-150221-sale/index.php?pref=sale&page=index');
     exit();
   }
 }
