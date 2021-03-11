@@ -22,11 +22,11 @@ Just fork or download it from this repository then copy it to htdocs directory.
 
 ## Usage example
 
-![Dashboard](http://bebaskripsi.000webhostapp.com/project-learn-jwd-150221-sale/dashboard.png)
+![Dashboard](http://bebaskripsi.000webhostapp.com/project-learn-jwd-150221-sale/dashboard.png?)
 
-![Data items](http://bebaskripsi.000webhostapp.com/project-learn-jwd-150221-sale/data-items.png)
+![Data items](http://bebaskripsi.000webhostapp.com/project-learn-jwd-150221-sale/data-items.png?)
 
-![Data sales](http://bebaskripsi.000webhostapp.com/project-learn-jwd-150221-sale/data-sales.png)
+![Data sales](http://bebaskripsi.000webhostapp.com/project-learn-jwd-150221-sale/data-sales.png?)
 
 _For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
 
