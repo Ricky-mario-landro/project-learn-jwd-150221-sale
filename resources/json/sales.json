@@ -1,0 +1,47 @@
+[
+    {
+        "_id": "603b5ebd90c65",
+        "invoice": "SPT.NK.28022021.100K\/NEW",
+        "item": "Nike",
+        "category": "Sepatu",
+        "price": 100000,
+        "condition": "New",
+        "created_at": "28 Feb 2021"
+    },
+    {
+        "_id": "603b5fcd20289",
+        "invoice": "JM.AC.28022021.20K\/SCND",
+        "item": "Alexander Cristine",
+        "category": "Jam",
+        "price": 20000,
+        "condition": "Second",
+        "created_at": "28 Feb 2021"
+    },
+    {
+        "_id": "603b63de17704",
+        "invoice": "KS.KSP.28022021.10K\/NEW",
+        "item": "Polo",
+        "category": "Kaos",
+        "price": 10000,
+        "condition": "New",
+        "created_at": "28 Feb 2021"
+    },
+    {
+        "_id": "603b640fda94c",
+        "invoice": "SPT.NK.28022021.23K\/SCND",
+        "item": "Nike",
+        "category": "Sepatu",
+        "price": 23000,
+        "condition": "Second",
+        "created_at": "28 Feb 2021"
+    },
+    {
+        "_id": "603b645c3da33",
+        "invoice": "JM.AC.28022021.10K\/NEW",
+        "item": "Alexander Cristine",
+        "category": "Jam",
+        "price": 10000,
+        "condition": "New",
+        "created_at": "28 Feb 2021"
+    }
+]

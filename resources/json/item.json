@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "SPT",
+    "category": "Sepatu",
+    "items": [
+      {
+        "_id": "NK",
+        "name": "Nike"
+      },
+      {
+        "_id": "ADS",
+        "name": "Adidas"
+      }
+    ]
+  },
+  {
+    "_id": "TS",
+    "category": "Tas",
+    "items": [
+      {
+        "_id": "HRM",
+        "name": "Hermes"
+      },
+      {
+        "_id": "PLO",
+        "name": "Polo"
+      }
+    ]
+  },
+  {
+    "_id": "JM",
+    "category": "Jam",
+    "items": [
+      {
+        "_id": "AC",
+        "name": "Alexander Cristine"
+      },
+      {
+        "_id": "GS",
+        "name": "Guess"
+      }
+    ]
+  },
+  {
+    "_id": "KS",
+    "category": "Kaos",
+    "items": [
+      {
+        "_id": "KSP",
+        "name": "Polo"
+      },
+      {
+        "_id": "GL",
+        "name": "Greenlight"
+      }
+    ]
+  }
+]
