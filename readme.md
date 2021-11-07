@@ -51,7 +51,7 @@ header('Location: {baseUrl}/index.php?pref=sales&page=index');
 
 ## Meta
 
-Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadjip/) – handokoadjipangestu@gmail.com
+Handoko Adji Pangestu – [@handokoadp](https://www.instagram.com/handokoadjip/) – handokoadjipangestu@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
