@@ -28,7 +28,7 @@ Just fork or download it from this repository then copy it to htdocs directory.
 
 ![Data sales](http://bebaskripsi.000webhostapp.com/project-learn-jwd-150221-sale/data-sales.png?)
 
-_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadjip/)._
+_For more examples and usage, please contact [Handoko Adji Pangestu](https://www.instagram.com/handokoadp/)._
 
 ## Development setup
 
